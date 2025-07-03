@@ -38,10 +38,14 @@ A clean and minimal weather app built using **HTML**, **CSS**, and **JavaScript*
 
 <br>
 
+This project was built as a part of my learning journey — I’m a **beginner** exploring **web development**.
+
+<br>
+
 ## 📷 Screenshots
 ![Error_SS](https://github.com/user-attachments/assets/2cc060f7-9f2b-4c76-8805-9aa1cf765a9f)
 ![SearchWindow_SS](https://github.com/user-attachments/assets/88ca4f7d-306d-4a33-a023-d0dc2af465d0)
 ![MainWindow_SS](https://github.com/user-attachments/assets/592eebbb-f123-4f2f-8df4-7dab83a98765)
 
-<br>
-This project was built as a part of my learning journey — I’m a **beginner** exploring **web development**.
+
+
